@@ -1,0 +1,8 @@
+{
+  "name": "Tân Phạm01",
+  "description": "Ứng dụng bóc tách dữ liệu từ file PDF (Hồ sơ số, Thời gian, Số trang) và xuất ra Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
